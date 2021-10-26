@@ -1,13 +1,3 @@
-#include <iostream>
-#include <fstream>
-#include <string>
-#include <vector>
-#include <algorithm>
-#include <numeric>
-#include <iterator>
-#include <cstring>
-#include <cstdio>
-#include <cstdlib>
 #include <bits/stdc++.h> 
 #define max 1000
 using namespace std;
